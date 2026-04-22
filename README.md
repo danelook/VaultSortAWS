@@ -1,0 +1,1 @@
+This project automatically processes image or text files uploaded to an AWS S3 bucket using an AWS Lambda function. When a file is uploaded, Lambda is triggered and routes the file to the appropriate processor based on its type.
